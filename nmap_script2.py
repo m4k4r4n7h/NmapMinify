@@ -1,6 +1,5 @@
 import os
 
-
 def generate_nmap_command():
     print("Welcome to the Interactive Nmap Scanner Generator!")
     target_host = input("Enter the target IP address or hostname: ")
